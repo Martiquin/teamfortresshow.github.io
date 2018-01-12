@@ -18,6 +18,32 @@
   padding-top: 40px;
   }
 
+
+.logotitle2 {
+  background: url(http://eskipaper.com/images/tf2-wallpaper-7.jpg) no-repeat center 0px;
+  height: 400px;
+  vertical-align: middle;
+  line-height: 230px;
+  background-size: 100%;
+  margin-top: -5%;
+  margin-right: 5%;
+  margin-left: 5%;
+  padding-top: 40px;
+  }
+
+.logotitle3 {
+  background: url(http://s1.picswalls.com/wallpapers/2014/09/22/team-fortress-2-desktop-wallpapers_044510569_246.jpg) no-repeat center 0px;
+  height: 400px;
+  vertical-align: middle;
+  line-height: 230px;
+  background-size: 100%;
+  margin-top: -5%;
+  margin-right: 5%;
+  margin-left: 5%;
+  padding-top: 40px;
+  }
+
+
 ul {
     position: fixed;
     width: 100%;
@@ -147,6 +173,14 @@ body {
     text-shadow: -1px -1px 0 #b35215, 1px -1px 0 #b35215, -1px 1px 0 #b35215, 1px 1px 0 #b35215, -2px -2px 0 #b35215, 2px -2px 0 #b35215, -2px 2px 0 #b35215, 2px 2px 0 #b35215, -3px -3px 0 #b35215, 3px -3px 0 #b35215, -3px 3px 0 #b35215, 3px 3px 0 #b35215, -4px -4px 0 #b35215, 4px -4px 0 #b35215, -4px 4px 0 #b35215, 4px 4px 0 #b35215, -5px -5px 0 #b35215, 5px -5px 0 #b35215, -5px 5px 0 #b35215, 5px 5px 0 #b35215, -6px -6px 0 #b35215, 6px -6px 0 #b35215, -6px 6px 0 #b35215, 6px 6px 0 #b35215;
 }
 
+.title2 {
+    color: white;
+    font-family: Impact;
+    font-size: 400%;
+    text-align: center;
+    text-shadow: -1px -1px 0 #b35215, 1px -1px 0 #b35215, -1px 1px 0 #b35215, 1px 1px 0 #b35215, -2px -2px 0 #b35215, 2px -2px 0 #b35215, -2px 2px 0 #b35215, 2px 2px 0 #b35215, -3px -3px 0 #b35215, 3px -3px 0 #b35215, -3px 3px 0 #b35215, 3px 3px 0 #b35215, -4px -4px 0 #b35215, 4px -4px 0 #b35215, -4px 4px 0 #b35215, 4px 4px 0 #b35215, -5px -5px 0 #b35215, 5px -5px 0 #b35215, -5px 5px 0 #b35215, 5px 5px 0 #b35215, -6px -6px 0 #b35215, 6px -6px 0 #b35215, -6px 6px 0 #b35215, 6px 6px 0 #b35215;
+}
+
 #arrow1 {
     text-align: center;
     padding: 10px;
@@ -224,6 +258,24 @@ li.dropdown {
 }
 
 #darkgrey{
+   bottom: -27px;
+  left: 0px;
+  position: relative;
+  width: 100%;
+  height: 13px;
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+#grey2 {
+  bottom: 80px;
+  left: 0px;
+  position: relative;
+  width: 100%;
+  height: 40px;
+  background-color: rgba(255, 255, 255, 0.5);
+}
+
+#darkgrey2{
    bottom: -27px;
   left: 0px;
   position: relative;
